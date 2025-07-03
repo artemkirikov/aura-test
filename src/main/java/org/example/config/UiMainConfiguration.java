@@ -5,8 +5,8 @@ import org.springframework.context.annotation.Configuration;
 
 @Configuration
 @ComponentScan({
-        "org.example",
+        "org.example.ui",
 })
 
-public class MainConfiguration {
+public class UiMainConfiguration {
 }
